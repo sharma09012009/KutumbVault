@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #001026;
+  --color-primary-container: #0b2545;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #778db2;
+  --color-primary-fixed: #d5e3ff;
+  --color-primary-fixed-dim: #b1c7f0;
+  
+  --color-secondary: #006d43;
+  --color-secondary-container: #75f8b3;
+  --color-on-secondary: #ffffff;
+  --color-on-secondary-container: #007147;
+  --color-secondary-fixed: #78fbb6;
+  --color-secondary-fixed-dim: #59de9b;
+
+  --color-tertiary: #1b0d00;
+  --color-tertiary-container: #372000;
+  --color-tertiary-fixed: #ffddb8;
+  --color-tertiary-fixed-dim: #ffb95f;
+  --color-on-tertiary-fixed: #2a1700;
+  --color-on-tertiary-container: #c47d00;
+
+  --color-background: #f6fafe;
+  --color-surface: #f6fafe;
+  --color-surface-container: #eaeef2;
+  --color-surface-container-low: #f0f4f8;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-high: #e5e9ed;
+  --color-surface-container-highest: #dfe3e7;
+  
+  --color-on-surface: #171c1f;
+  --color-on-surface-variant: #44474e;
+  --color-outline: #74777f;
+  --color-outline-variant: #c4c6cf;
+  --color-surface-tint: #495f82;
+
+  --color-error: #ba1a1a;
+  --color-error-container: #ffdad6;
+  --color-on-error: #ffffff;
+  --color-on-error-container: #93000a;
+
+  --font-headline: 'Plus Jakarta Sans', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+  --font-label: 'Plus Jakarta Sans', sans-serif;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #f6fafe;
+  color: #171c1f;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Custom scrollbar hiding */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

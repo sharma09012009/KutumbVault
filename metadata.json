@@ -1,0 +1,7 @@
+{
+  "name": "FamilyVault - KutumbVault",
+  "description": "Zero-knowledge family medical emergency hub, paramedic break-glass QR pass, life-saving clinical records, hospital cashless cards, and AI emergency first-aid triage.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

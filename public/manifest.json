@@ -1,0 +1,22 @@
+{
+  "name": "FamilyVault - KutumbVault",
+  "short_name": "KutumbVault",
+  "description": "Zero-Knowledge Family Document Vault, Health Records, and Emergency SOS Hub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001026",
+  "theme_color": "#001026",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida/AEtjO1X17yWgdxIT0KJiPQkhJbrXn7M-ZibblA6q00MSLYDZW5IwRGANTyLDJmVbza8r05VNb7pkGLhMtCXY8Sr8sCg49JQygvSM_XPYQwx5GaTlxYd6Eu5FSFKNxNr3rf_Y2a120Eg1Ltqy2QJMuuD8dVpb1tegu8T9ymvo9Fl8JofgbvnSBUIwQ6gNCx3c6tOnwK4GFCG4P5C4fxchY_yL3xu1jSevySZfZ04yzOswU-abyg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/aida/AEtjO1X17yWgdxIT0KJiPQkhJbrXn7M-ZibblA6q00MSLYDZW5IwRGANTyLDJmVbza8r05VNb7pkGLhMtCXY8Sr8sCg49JQygvSM_XPYQwx5GaTlxYd6Eu5FSFKNxNr3rf_Y2a120Eg1Ltqy2QJMuuD8dVpb1tegu8T9ymvo9Fl8JofgbvnSBUIwQ6gNCx3c6tOnwK4GFCG4P5C4fxchY_yL3xu1jSevySZfZ04yzOswU-abyg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
